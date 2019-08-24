@@ -1,5 +1,9 @@
 # ClientFinal_1
 
+
+server  https://github.com/pranshu469/Server_RandomNumberSingleInstance
+use this uri in batch program
+
 ojdbc14                                                   https://mvnrepository.com/artifact/ojdbc14/ojdbc14/10.2.0.3.0
 
 json20140107.jar for parsing json string                  https://mvnrepository.com/artifact/org.json/json/20140107
